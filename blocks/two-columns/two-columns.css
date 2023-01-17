@@ -1,0 +1,13 @@
+.two-columns { 
+    margin: 0 auto;
+    padding: 0;        
+    display: flex;
+    justify-content: space-between; 
+    width: 100vp;
+    width: 80%;
+    min-width: 784px;
+    height: 100vp;
+    min-height: 200px; 
+    padding-bottom: 100px; 
+    padding-top: 100px;
+  } 
