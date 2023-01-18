@@ -2,7 +2,7 @@
     src: 
       url(../vendor/Shrift/Inter/Inter-Regular.woff) format('woff'),
       url(../vendor/Shrift/Inter/Inter-Regular.woff2) format('woff2');      
-    font-family: 'Inter-Regular';
+    font-family: 'Inter';
     font-weight: normal;
   } 
 
@@ -10,7 +10,7 @@
     src: 
       url(../vendor/Shrift/Inter/Inter-Bold.woff) format('woff'),
       url(../vendor/Shrift/Inter/Inter-Bold.woff2) format('woff2');      
-    font-family: 'Inter-Bold';
+    font-family: 'Inter';
     font-weight: bold;
   } 
 
@@ -18,8 +18,8 @@
     src: 
       url(../vendor/Shrift/Inter/Inter-SemiBold.woff) format('woff'),
       url(../vendor/Shrift/Inter/Inter-SemiBold.woff2) format('woff2');      
-    font-family: 'Inter-SemiBold';
-    font-weight: bold;
+    font-family: 'Inter';
+    font-weight: 600;
   }   
 
 
