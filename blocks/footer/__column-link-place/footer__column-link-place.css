@@ -1,0 +1,7 @@
+.footer__column-link-place {
+    padding-bottom: 10px;
+}
+
+.footer__column-link-place:last-of-type {
+    padding-bottom: 0;
+}
